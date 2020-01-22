@@ -5,6 +5,7 @@
   display: flex;
   justify-content: space-between;
   opacity: 0.7;
+  padding: 10px 35px 10px 0px;
 }
 
 .status-bar i {
